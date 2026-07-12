@@ -1,17 +1,10 @@
 <!--
   This is your PROFILE README. It goes in a repo named exactly after your
   username (e.g. github.com/OCTOCAT/OCTOCAT) so GitHub shows it on your profile.
-  Replace the ALL-CAPS placeholders. Widths 370/490 keep the portrait and info
-  card the same height -- if you change the info card's H, re-match these.
 -->
 <div align="center">
 
-<table>
-<tr>
-<td valign="top"><img src="https://raw.githubusercontent.com/maheshmaruthiudoji/maheshmaruthiudoji/main/avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
-<td valign="top"><img src="https://raw.githubusercontent.com/maheshmaruthiudoji/maheshmaruthiudoji/main/info-card.svg" width="490" alt="Experience, stack, highlights" /></td>
-</tr>
-</table>
+<img src="./avi-ascii.svg" width="420" alt="ASCII portrait" />
 
 ## Mahesh Udoji
 
@@ -32,7 +25,11 @@ Open to internships and Data Analyst, AI Engineer, and Data Scientist opportunit
 
 <br>
 
+<img src="./info-card.svg" width="520" alt="Experience, stack, highlights" />
+
+<br>
+
 <!-- animated contribution graph, refreshed daily by the workflow -->
-<img src="https://raw.githubusercontent.com/maheshmaruthiudoji/maheshmaruthiudoji/main/contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
 
 </div>
