@@ -19,7 +19,7 @@ Open to internships and Data Analyst, AI Engineer, and Data Scientist opportunit
 [![Portfolio](https://img.shields.io/badge/Portfolio-mahesh--portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://mahesh-portfolio-563p.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mahesh--udoji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-udoji-034661313/)
 [![GitHub](https://img.shields.io/badge/GitHub-maheshmaruthiudoji-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maheshmaruthiudoji)
-[![LeetCode](https://img.shields.io/badge/LeetCode-maheshmaruthiudoji-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/maheshmaruthiudoji/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/BDG9INr99X/)
 [![Instagram](https://img.shields.io/badge/Instagram-maheshudoji-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maheshudoji/)
 [![Email](https://img.shields.io/badge/Email-maheshudoji8059%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshudoji8059@gmail.com)
 
